@@ -1,7 +1,7 @@
-# Smartphone-Backup-Data-Extractor
+# Smartphone-Backup-Data-Extractor 
  Initial ver. developed by Jaehyeok Han (2016. 02. 01)
 
-This is to extract and analyze smartphone backup data.
+This is to extract and do analysis smartphone backup data.
 (This is not included private key of vendors)
 
 * Usage : BackupFileExtractor.exe  < Backup File >
